@@ -10,6 +10,7 @@ It is actively maintained by [**@mrousavy**](https://github.com/mrousavy) and us
 You can support the development of VisionCamera by [sponsoring **@mrousavy** on GitHub](https://github.com/sponsors/mrousavy).
 branch_4_1
 branch_4_2
+branch_4_3
 <br />
 <br />
 
